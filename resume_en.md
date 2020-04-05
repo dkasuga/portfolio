@@ -6,11 +6,11 @@ benjamin.at.mac@gmail.com<br>
 
 ## Experience
 **Microsoft Japan**
-Windows 10 Sales Team
-	- I also for education event and
+Windows 10 Sales Team<br>
 April 2018 - March 2019
-
-
+- A member of the Windows 10 sales promotion team and was involved in negotiations and marketing planning with advertising and sales agencies.
+- I also made teaching materials and code for programming education events and hands-on seminars using Windows 10 or Azure.
+- <span style="color: red; ">(天の声：いわゆる開発系インターンに参加したことがない(ホントは春休みにやる予定がコロナで中止になりました😭)のでここに書けることがなく困り果てています．しかし書かないよりはマシだろうと思ってエンジニア職ではないものの上記を載せていますがどうなんでしょうか？開発職経験がないなら素直にそのこと認めて下の個人の作品や大学での演習や経験の話にページを割くべきかどうか迷っています．)</span>
 
 ## Activity
 **Competitive Programming**
@@ -18,23 +18,37 @@ April 2018 - March 2019
 - I usually use C++ to solve problems.
 
 **OSS Development**
-- I participated in some OSS projects, such as TensorFlow Graphics or Kaolin, which are 3D Deep Learning Library for TensorFlow or PyTorch.
+- I've participated in some OSS projects, such as TensorFlow Graphics or Kaolin, which are 3D Deep Learning Library for TensorFlow or PyTorch.
 
 ## Works
 **holoDesk**
-- I developed this application for a software development contest at my university in 2019,  and I won the 1st prize.
-- (天の声：流石にTwitterでの紹介リンクだけだとアレなので，githubにコードをあげようとしているのですが，まだ整理中です…)
+- I developed this application for a software development contest at my university in 2019, and I won the 1st prize.
+- <span style="color: red; ">（天の声：流石にTwitterでの紹介リンクだけだとアレなので，githubにコードをあげようとしているのですが，まだ整理中です…）</span>
 
 **Mozi Scan**
 - Written in Python, using OpenCV and OpenGL.
 - I developed this application for a software development contest at my university in 2018,  and I won the 1st prize.
-- (天の声：こちらもまだコードを整理中です)
+- <span style="color: red; ">(天の声：こちらもまだコードを整理中です)</span>
 
 **Estimation of 3D Geometry and Material**
-- This is my graduation thesis project.
+- This is my graduation thesis project. My theme is the combination of computer vision and computer graphics using deep learning.
+- You can generate 3D Mesh and physically-based material from a single image.
+- The codes are written in Python using PyTorch.
 
 **dkasuga9cc**
-a small C compiler
+- A small C compiler written in C, made with reference to [Rui Ueyama's textbook](https://www.sigbus.info/compilerbook).
+-
+
+
+- <span style="color: red; ">(天の声：機械学習やCV系，モバイルアプリやAR系の開発の話が多いので，本当はもう少しシステムプログラミング要素を入れたほうがよいのではないかと思ったのですが，勉強や本の内容をなぞったものはあるものの，個人の作品といえるものはまだないので載せませんでした．募集要項にある望ましい経験・スキルみたいなのはどれくらい関連させたほうがよいのでしょうか？：</span>
+>望ましい経験/スキル:
+>>- 12～18 か月以内に学士号または修士号を取得していること、または現在博士課程に在籍していること
+>>- システム ソフトウェアやアルゴリズムに携わった経験
+>>- 汎用プログラミング言語の実務経験（Java、C/C++、C#、Objective C、Python、JavaScript、Go など）
+>>- Unix / Linux 環境または Windows 環境に関する知識、API に関する知識
+>>- TCP/IP とネットワーク プログラミングに精通していること
+>>- 10 週間のインターン期間中、東京オフィスにて勤務できること
+)
 
 ## Education
 
@@ -51,7 +65,8 @@ April 2016 - March 2020
 
 - Department: Mechano-Informatics
 - Lab: [Machine Intelligence Lab](https://www.mi.t.u-tokyo.ac.jp/en/)
-- GPA: 3.65
+- GPA: <span style="color: red; ">（天の声：GPAを掲載しましょうということが[Googleの公式ガイド](https://careers.google.com/intl/ja_jp/stories/applying-to-google/)に書いてあったのですが，どうやって計算しましたか？普通GPAって4.0がmaxだと思うのですが，[ここ](https://applications.friendsofutokyo.org/GPACalculator/GPACalculator3)によるとそもそも東大は優上:3.3がmaxみたいなので，それで計算すると低く出てしまうなと……）</span>
+- <span style="color: red; ">（天の声：具体的に大学でどういう授業をとってこういうことを学んだ，という話は書くべきでしょうか？例えば上記のWorksのところには載せられなかった反面，ここでオペレーティングシステムや言語処理論の授業をとってハンズオン的なものもこなしたよ，とアピールするとかなどを考えています）</span>
 
 ## Skills
 **Programming Lauguage**
@@ -62,87 +77,3 @@ April 2016 - March 2020
 
 **Software/Environment**
 - Vim, Git, Linux, macOS
-
-
-# Naoki Kishi
-
-**Student Engineer with wide experiences of engineering internship and manager of community.**
-Kyoto
-contact@p1ass.com
-[https://github.com/p1ass](https://github.com/p1ass)
-[https://p1ass.com](https://p1ass.com)
-
-## Summary
-Various experiences of developing API, website, and library as internship and private. Advanced implementation skills with Go and Python. Manager of one of the biggest student engineer community in Kyoto.
-
-## Experience
-**CAMPHOR-, Kyoto**
-Manager of a community for students leaning IT engineering in Kyoto
-December 2018 to Present
-
-- Manage working space for students and organize study session
-- Fixed official website bugs, wrote unit tests for internal API
-- Created development environments using Docker, which made other members develop easily
-
-**Akatsuki Inc.**
-Server-side Engineer (Internship)
-September 2019
-
-- Improved large-scale application design for in-game money management service
-- Added the feature that the OSS test generator in Go called [aktsk/atgen](https://github.com/aktsk/atgen) supports raw binary request body
-
-**CyberAgent, Inc.**
-Server-side Engineer (Internship)
-August 2019
-
-- Designed, and improved, and tested the data structure of broadcasting metadata related to sharing from  to increase the viewers from SNS
-
-**LINE Corporation, Tokyo**
-Server-side Engineer (Internship)
-February 2019 to March 2019
-
-- Developed API for real time quiz competition where live streamers can communicate with hundreds of audiences interactively
-- Took measures against expected spike access by using Redis instead of MySQL and accomplished no down time
-
-
-## Award
-
-**1ast prize in a internship held by DeNA**
-August 2019
-
-- I participated in the intern in the theme of âGrow an app to be the best app in 3 daysâ as a server-side and was in charge of building a server that could make 10,000 requests per second
-
-**1st prize in a hackathon held by pixiv Inc.**
-December 2018
-
-- Participated in a  hackathon  to make a brand new web service, created an illust viewer named Marshiv, which tiles hundreds of illusts continuously as you scroll down
--  Developed from scratch in cooperation with a mentor in 10 hours using Nuxt.js
-
-## Education
-**Kyoto University, Kyoto**
-Bachelor of Engineering
-April 2017 to Present
-
-- Cumulative GPA: 3.68, Major GPA: 4.05
-- Relevant Coursework: Information Theory, Computer Programming, Basic Informatics, Computer Hardware Design
-
-## Works
-[**Memoito**](https://memoito.com)
-- The Web service that saves your notes associated with your following people using Twitter OAuth
-
-[**p1ass/feeder**](https://github.com/p1ass/feeder)
-- RSS, Atom, and JSON feed generator from multiple data written in Go
-- You can generate feeds from any data you want by implementing interface
-
-[**Announcement bot in Kyoto University**](https://github.com/p1ass/ku-cancel-announcement-bot)
-- Twitter bot for announcing class information written in Python
-- Built with VPS server, used cron job scheduler
-
-[**p1ass.com**](https://p1ass.com)
-- My website that introduce my profile
-- Crawls my posts in various websites automatically using p1ass/feeder
-
-## Skills
-
-Go, Python, Docker, Git / GitHub, CircleCI, GCP, Kubernetes, C, SQL, HTML, JavaScript, Vue.js / Nuxt.js, Java
-
