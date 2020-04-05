@@ -1,8 +1,8 @@
 # Daisuke Kasuga
-**Student Engineer**
-- Tokyo, Japan
-- benjamin.at.mac@gmail.com
-- [https://github.com/dkasuga](https://github.com/dkasuga)
+**Student Engineer**<br>
+Tokyo, Japan<br>
+benjamin.at.mac@gmail.com<br>
+[https://github.com/dkasuga](https://github.com/dkasuga)
 
 ## Experience
 **Microsoft Japan**
@@ -23,13 +23,12 @@ April 2018 - March 2019
 ## Works
 **holoDesk**
 - I developed this application for a software development contest at my university in 2019,  and I won the 1st prize.
-- (流石にTwitterでの紹介リンクだけだとアレなので，githubにコードをあげようとしているのですが，まだ整理中です…)
-- エンコード
+- (天の声：流石にTwitterでの紹介リンクだけだとアレなので，githubにコードをあげようとしているのですが，まだ整理中です…)
 
 **Mozi Scan**
 - Written in Python, using OpenCV and OpenGL.
 - I developed this application for a software development contest at my university in 2018,  and I won the 1st prize.
-- (こちらもまだコードを整理中です)
+- (天の声：こちらもまだコードを整理中です)
 
 **Estimation of 3D Geometry and Material**
 - This is my graduation thesis project.
@@ -39,15 +38,15 @@ a small C compiler
 
 ## Education
 
-**The University of Tokyo**
-Master’s degree (Information science and engineering)
+**The University of Tokyo**<br>
+Master’s degree (Information science and engineering)<br/>
 April 2020 - Present
 
 - Department: Mechano-Informatics
 - Lab: [Machine Intelligence Lab](https://www.mi.t.u-tokyo.ac.jp/en/)
 
-**The University of Tokyo**
-Bachelor’s degree (Engineering)
+**The University of Tokyo**<br>
+Bachelor’s degree (Engineering)<br>
 April 2016 - March 2020
 
 - Department: Mechano-Informatics
