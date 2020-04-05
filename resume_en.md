@@ -10,7 +10,9 @@ Windows 10 Sales Team<br>
 April 2018 - March 2019
 - A member of the Windows 10 sales promotion team and was involved in negotiations and marketing planning with advertising and sales agencies.
 - I also made teaching materials and code for programming education events and hands-on seminars using Windows 10 or Azure.
-- <span style="color: red; ">(天の声：いわゆる開発系インターンに参加したことがない(ホントは春休みにやる予定がコロナで中止になりました😭)のでここに書けることがなく困り果てています．しかし書かないよりはマシだろうと思ってエンジニア職ではないものの上記を載せていますがどうなんでしょうか？開発職経験がないなら素直にそのこと認めて下の個人の作品や大学での演習や経験の話にページを割くべきかどうか迷っています．)</span>
+```diff
+- (天の声：いわゆる開発系インターンに参加したことがない(ホントは春休みにやる予定がコロナで中止になりました😭)のでここに書けることがなく困り果てています．しかし書かないよりはマシだろうと思ってエンジニア職ではないものの上記を載せていますがどうなんでしょうか？開発職経験がないなら素直にそのこと認めて下の個人の作品や大学での演習や経験の話にページを割くべきかどうか迷っています．)
+```
 
 ## Activity
 **Competitive Programming**
