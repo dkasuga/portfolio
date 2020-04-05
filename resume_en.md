@@ -20,17 +20,16 @@ April 2018 - March 2019
 **OSS Development**
 - I participated in some OSS projects, such as TensorFlow Graphics or Kaolin, which are 3D Deep Learning Library for TensorFlow or PyTorch.
 
-Microsoft
-
 ## Works
 **holoDesk**
 - I developed this application for a software development contest at my university in 2019,  and I won the 1st prize.
-- (???Twitter?????????????????github???????????????????????????)
+- (流石にTwitterでの紹介リンクだけだとアレなので，githubにコードをあげようとしているのですが，まだ整理中です…)
+- エンコード
 
 **Mozi Scan**
 - Written in Python, using OpenCV and OpenGL.
 - I developed this application for a software development contest at my university in 2018,  and I won the 1st prize.
-- (???????????????)
+- (こちらもまだコードを整理中です)
 
 **Estimation of 3D Geometry and Material**
 - This is my graduation thesis project.
@@ -41,14 +40,14 @@ a small C compiler
 ## Education
 
 **The University of Tokyo**
-Master?s degree (Information science and engineering)
+Master’s degree (Information science and engineering)
 April 2020 - Present
 
 - Department: Mechano-Informatics
 - Lab: [Machine Intelligence Lab](https://www.mi.t.u-tokyo.ac.jp/en/)
 
 **The University of Tokyo**
-Bachelor?s degree (Engineering)
+Bachelor’s degree (Engineering)
 April 2016 - March 2020
 
 - Department: Mechano-Informatics
@@ -112,7 +111,7 @@ February 2019 to March 2019
 **1ast prize in a internship held by DeNA**
 August 2019
 
-- I participated in the intern in the theme of “Grow an app to be the best app in 3 days” as a server-side and was in charge of building a server that could make 10,000 requests per second
+- I participated in the intern in the theme of âGrow an app to be the best app in 3 daysâ as a server-side and was in charge of building a server that could make 10,000 requests per second
 
 **1st prize in a hackathon held by pixiv Inc.**
 December 2018
