@@ -5,12 +5,12 @@ benjamin.at.mac@gmail.com<br>
 [https://github.com/dkasuga](https://github.com/dkasuga)
 
 ## Experience
-**Microsoft Japan**
+**Microsoft Japan**<br>
 Windows 10 Sales Team<br>
 April 2018 - March 2019
 - A member of the Windows 10 sales promotion team and was involved in negotiations and marketing planning with advertising and sales agencies.
 - I also made teaching materials and code for programming education events and hands-on seminars using Windows 10 or Azure.
-- (**天の声**：いわゆる開発系インターンに参加したことがない(ホントは春休みにやる予定がコロナで中止になりました😭)のでここに書けることがなく困り果てています．しかし書かないよりはマシだろうと思ってエンジニア職ではないものの上記を載せていますがどうなんでしょうか？開発職経験がないなら素直にそのこと認めて下の個人の作品や大学での演習や経験の話にページを割くべきかどうか迷っています．)
+- (**天の声**：いわゆる開発系インターンに参加したことがない(ホントは春休みにやる予定がコロナで中止になりました😭)のでここに書けることがなく困り果てています．しかし書かないよりはマシだろうと思い，エンジニア職ではないものの上記を載せていますがどうなんでしょうか？開発職経験がないなら素直にそのこと認めて，下の個人の作品や大学での演習・経験の話にページを割くべきなのかもと思ったり．)
 
 ## Activity
 **Competitive Programming**
@@ -21,26 +21,27 @@ April 2018 - March 2019
 - I've participated in some OSS projects, such as TensorFlow Graphics or Kaolin, which are 3D Deep Learning Library for TensorFlow or PyTorch.
 
 ## Works
-**holoDesk**
+**[holoDesk]()**
+- I created iOS app for my own cardboard AR goggle by combining iPhone and Leap Motion(hand tracking controller), providing hand gesture UX experiences. For example, you can watch your favorite movies in spaces around you, and change screen size using your hands. You can also search items in front of you in amazon.com.
 - I developed this application for a software development contest at my university in 2019, and I won the 1st prize.
 - **天の声**：流石にTwitterでの紹介リンクだけだとアレなので，githubにコードをあげようとしているのですが，まだ整理中です…）
 
-**Mozi Scan**
-- Written in Python, using OpenCV and OpenGL.
-- I developed this application for a software development contest at my university in 2018,  and I won the 1st prize.
+**[NoteScanner](https://github.com/dkasuga/NoteScanner)**
+- Simple OCR app. It transcribes the text in the image to .txt file or converts codes on a book to .cpp file. You can also directly access the URLs in the images.
+- Written in Python, using OpenCV.
+- I developed this application for a light software development contest at my university in 2018, and I won the 1st prize.
 - (**天の声**：こちらもまだコードを整理中です)
 
-**Estimation of 3D Geometry and Material**
-- This is my graduation thesis project. My theme is the combination of computer vision and computer graphics using deep learning.
+**[Estimation of 3D Geometry and Material](https://github.com/dkasuga/EstimationOf3DGeometryAndMaterial)**
+- Deep neural network model for my graduation thesis project. My theme is the combination of computer vision and computer graphics using deep learning.
 - You can generate 3D Mesh and physically-based material from a single image.
 - The codes are written in Python using PyTorch.
 
-**dkasuga9cc**
+**[dkasuga9cc](https://github.com/dkasuga/dkasuga9cc)**
 - A small C compiler written in C, made with reference to [Rui Ueyama's textbook](https://www.sigbus.info/compilerbook).
--
 
 
-- （**天の声**：機械学習やCV系，モバイルアプリやAR系の開発の話が多いので，本当はもう少しシステムプログラミング要素を入れたほうがよいのではないかと思ったのですが，勉強や本の内容をなぞったものはあるものの，個人の作品といえるものはまだないので載せませんでした．募集要項にある望ましい経験・スキルみたいなのはどれくらい関連させたほうがよいのでしょうか？：
+（**天の声**：機械学習やCV系，モバイルアプリやAR系の開発の話が多いので，本当はもう少しシステムプログラミング要素を入れたほうがよいのではないかと思ったのですが，勉強や本の内容をなぞったものはあるものの，個人の作品といえるものはまだないので載せませんでした．募集要項にある望ましい経験・スキルみたいなのはどれくらい関連させたほうがよいのでしょうか？：
 >望ましい経験/スキル:
 >>- 12～18 か月以内に学士号または修士号を取得していること、または現在博士課程に在籍していること
 >>- システム ソフトウェアやアルゴリズムに携わった経験
