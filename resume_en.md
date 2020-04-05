@@ -14,14 +14,14 @@ April 2018 - March 2019
 
 ## Activity
 **Competitive Programming**
-- Active competitor on atcoder.jp and joined 12 contests. My rate is 932 and rank color is green.
+- Active competitor on [atcoder.jp](https://atcoder.jp) and joined 11 contests. My rate is 932 and rank color is green.
 - I usually use C++ to solve problems.
 
 **OSS Development**
 - I've participated in some OSS projects, such as TensorFlow Graphics or Kaolin, which are 3D Deep Learning Library for TensorFlow or PyTorch.
 
 ## Works
-**[holoDesk]()**
+**[holoDesk](https://twitter.com/benmon0412/status/1085146690250694656?s=20)**
 - I created iOS app for my own cardboard AR goggle by combining iPhone and Leap Motion(hand tracking controller), providing hand gesture UX experiences. For example, you can watch your favorite movies in spaces around you, and change screen size using your hands. You can also search items in front of you in amazon.com.
 - I developed this application for a software development contest at my university in 2019, and I won the 1st prize.
 - **天の声**：流石にTwitterでの紹介リンクだけだとアレなので，githubにコードをあげようとしているのですが，まだ整理中です…）
