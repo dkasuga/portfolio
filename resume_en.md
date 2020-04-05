@@ -22,7 +22,8 @@ April 2018 - March 2019
 
 ## Works
 **[holoDesk](https://twitter.com/benmon0412/status/1085146690250694656?s=20)**
-- I created iOS app for my own cardboard AR goggle by combining iPhone and Leap Motion(hand tracking controller), providing hand gesture UX experiences. For example, you can watch your favorite movies in spaces around you, and change screen size using your hands. You can also search items in front of you in amazon.com.
+- I created an iOS app for my own cardboard AR goggle by combining iPhone and Leap Motion (hand tracking controller), providing hand gesture UX experiences. For example, you can watch your favorite movies in spaces around you, and change screen size using your hands. You can also search items in front of you in amazon.com.
+- This is written in Swift using ARKit, but I rarely depended on ARKit's APIs and implemented most of functions by myself because there are many functions that cannot be realized by existing ARKit libraries.
 - I developed this application for a software development contest at my university in 2019, and I won the 1st prize.
 - **天の声**：流石にTwitterでの紹介リンクだけだとアレなので，githubにコードをあげようとしているのですが，まだ整理中です…）
 
@@ -74,7 +75,9 @@ April 2016 - March 2020
 - Python, C++, C, Swift, HTML, CSS, Javascript
 
 **Framework/Technology**
-- PyTorch, TensorFlow, ARKit,  React
+- PyTorch, TensorFlow, ARKit, React
 
 **Software/Environment**
 - Vim, Git, Linux, macOS
+
+（**天の声**：Javascript/Reactはこの春バイトで触り始めた程度で，フロントエンドについてはまだビギナー状態です．下手に書いてしまうと面接の際に技術に関して質問されたときに対応できないかも，と思いやっぱ消そうかなと思っているのですが，面接の時ってコーディング試験以外は何を聞かれるものなんでしょうか？）
