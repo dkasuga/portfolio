@@ -5,16 +5,16 @@ benjamin.at.mac@gmail.com<br>
 [https://github.com/dkasuga](https://github.com/dkasuga)
 
 ## Education
-**Master of Engineering**
-Graduate School of Information Science and Technology, The University of Tokyo, Tokyo (Japan)
-- Research at machine learning, computer vision and computer graphics supervised by Tatsuya Harada
+**Master of Engineering**<br>
+Graduate School of Information Science and Technology, The University of Tokyo, Tokyo (Japan)<br>
+- Research on machine learning, computer vision and computer graphics supervised by Tatsuya Harada
 - Mechano-Informatics Course
 - Research member at [Machine Intelligence Lab](https://www.mi.t.u-tokyo.ac.jp/en/)
 
-**Bachelor of Engineering**
-The University of Tokyo, Tokyo(Japan)
+**Bachelor of Engineering**<br>
+The University of Tokyo, Tokyo(Japan)<br>
 April 2016 - March 2020
-- Research at machine learning, computer vision and computer graphics supervised by Tatsuya Harada
+- Research on machine learning, computer vision and computer graphics supervised by Tatsuya Harada
 - Department of Mechano-Informatics
 - Research member at [Machine Intelligence Lab](https://www.mi.t.u-tokyo.ac.jp/en/)
 - Learned computer science, robotics, statistics, mathematics, and mechanics
@@ -30,6 +30,7 @@ April 2016 - March 2020
 - I created an iOS app for my own cardboard AR goggle by combining iPhone and Leap Motion (hand tracking controller), providing hand gesture UX experiences. For example, you can watch your favorite movies in spaces around you, and change screen size using your hands. You can also search items in front of you in amazon.com.
 - This is written in Swift using ARKit, but I rarely depended on ARKit's APIs and implemented most of the functions by myself because there are many functions that cannot be realized by existing ARKit libraries.
 - I developed this application for a software development contest during the mechano-informatics class in 2019, and I won the 1st prize.
+(**コードは整理中**)
 
 **[NoteScanner](https://github.com/dkasuga/NoteScanner)**
 - Simple OCR app. It transcribes the text in the image to .txt file or converts codes on a book to .cpp file. You can also directly access the URLs in the images.
@@ -38,7 +39,7 @@ April 2016 - March 2020
 
 **[Estimation of 3D Geometry and Material](https://github.com/dkasuga/EstimationOf3DGeometryAndMaterial)**
 - Deep neural network model for my graduation thesis project. My theme is the combination of computer vision and computer graphics using deep learning.
-- You can generate 3D Mesh and physically-based material from a single image.
+- You can generate 3D geometry as a mesh and physically-based rendering material (diffuse, specular, roughness) from a single image. For now this is only trained for ShapNet car datasets, but it can be applied for xR applications in the future. For example, you can get realistic 3D model of a chair in front of you, and send it to others in order to use it in AR scenes in different places.
 - The codes are written in Python using PyTorch.
 
 **[dkasuga9cc](https://github.com/dkasuga/dkasuga9cc)**
@@ -70,13 +71,15 @@ April 2018 - March 2019
 **Software/Environment**
 - Vim, Git, Linux, macOS
 
-- NoteScanner -> done
+
+
+
+<!-- - NoteScanner -> done
 - contestの文面変える -> mechano-informatics class
 - educationでとった授業について -> 一応done，言語処理系論
-- 研究の話もう少し付け足す ->
+- 研究の話もう少し付け足す -> done
 - MSでのハンズオンの話をふくらませる -> done
-- OSSの話をどこまで書くか
-
+- OSSの話をどこまで書くか ->
 - 明日の目標はとりあえずここまでを遂行すること
 
 残り
@@ -84,4 +87,4 @@ April 2018 - March 2019
 - 自主プロ -> 動画を載せる，具体的にどういうことができるかを端的にまとめる，使ったコードのやつとかを載せる
     - コードはまだ整理中みたいなことを言う
     - きちんとレイアウトする
-
+ -->
