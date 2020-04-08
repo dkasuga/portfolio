@@ -1,3 +1,5 @@
+(**天の声**となっているところは迷っている点に関するコメントで，実際に載せるものではないです)
+
 # Daisuke Kasuga
 **Student Engineer**<br>
 Tokyo, Japan<br>
@@ -30,7 +32,7 @@ April 2016 - March 2020
 - I created an iOS app for my own cardboard AR goggle by combining iPhone and Leap Motion (hand tracking controller), providing hand gesture UX experiences. For example, you can watch your favorite movies in spaces around you, and change screen size using your hands. You can also search items in front of you in amazon.com.
 - This is written in Swift using ARKit, but I rarely depended on ARKit's APIs and implemented most of the functions by myself because there are many functions that cannot be realized by existing ARKit libraries.
 - I developed this application for a software development contest during the mechano-informatics class in 2019, and I won the 1st prize.
-(**コードは整理中**)
+(**天の声**：コードは整理中)
 
 **[NoteScanner](https://github.com/dkasuga/NoteScanner)**
 - Simple OCR app. It transcribes the text in the image to .txt file or converts codes on a book to .cpp file. You can also directly access the URLs in the images.
