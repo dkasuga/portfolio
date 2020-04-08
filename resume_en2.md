@@ -44,6 +44,7 @@ April 2016 - March 2020
 
 **[dkasuga9cc](https://github.com/dkasuga/dkasuga9cc)**
 - A small C compiler written in C, made with reference to [Rui Ueyama's textbook](https://www.sigbus.info/compilerbook).
+- (**天の声**：いわゆるザ・CS的なものも入れておくことでアピールできるかと思って入れました．Educationで受けた授業に記載した言語処理論とリンクさせてアピールする予定．が，そんなに詳しくないので下手に書いて面接の時つっこまれるのは怖いなとも)
 
 
 ## Activity
@@ -60,6 +61,7 @@ Windows 10 Sales Team<br>
 April 2018 - March 2019
 - A member of the Windows 10 sales promotion team and was involved in negotiations and marketing planning with advertising and sales agencies.
 - I was also involved in running programming education events for high school students. I planned hands-on development of an MR painting application on Microsoft HoloLens, made with Unity using C#. I made tutorial materials for it and I actually taught the students as a tutor on the days.
+- (**天の声**：いわゆる開発系インターンに参加したことがない(ホントは春休みにやる予定がコロナで中止になりました😭)のでここに書けることがなく困り果てています．しかし書かないよりはマシだろうと思い，エンジニア職ではないものの上記を載せています．Experienceが薄いぶんEducationとWorksをアピールしようというアドバイスをもらったので，そちらを先に，こちらをあとに回しています)
 
 ## Skills
 **Programming Lauguage**
