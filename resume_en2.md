@@ -22,7 +22,7 @@ April 2016 - March 2020
 - Learned computer science, robotics, statistics, mathematics, and mechanics
 - some of the classes I took:
     - **Operating System** class by Kenjiro Taura
-        - Learned the basics of operating system functions and structures, such as synchronous communication between processes, scheduling, and memory management not only through lectures but also through hands-on exercises on Ubuntu.
+        - Learned the basics of operating system functions and structures, such as synchronous communication between processes, process scheduling, and memory management not only through lectures but also through hands-on exercises on Ubuntu.
     - **Language Processing System** by Naoki Kobayashi
     - **Statistical Machine Learning** class by Masashi Sugiyama
         - Learned the basic theory of statistical machine learning and specific algorithms, such as SVM, EM algorithm, and non-parametric kernel density estimation. I implemented some algorithms such as k-means, k-NN, SVM with kernel methods in python and did experiments to evaluate their peformances.\footnote{}.
@@ -31,8 +31,8 @@ April 2016 - March 2020
 **[holoDesk](https://twitter.com/benmon0412/status/1085146690250694656?s=20)**
 - I created an iOS app for my own cardboard AR goggle by combining iPhone and Leap Motion (hand tracking controller), providing hand gesture UX experiences. For example, you can watch your favorite movies in spaces around you, and change screen size using your hands. You can also search items in front of you in amazon.com.
 - This is written in Swift using ARKit, but I rarely depended on ARKit's APIs and implemented most of the functions by myself because there are many functions that cannot be realized by existing ARKit libraries.
+- The iPhone and Leap Motion communicate via WebSocket communication, and the tracking data on hand gestures are sent from Leap Motion in the form of json and parsed on the iOS side.
 - I developed this application for a software development contest during the mechano-informatics class in 2019, and I won the 1st prize.
-(**天の声**：コードは整理中)
 
 **[NoteScanner](https://github.com/dkasuga/NoteScanner)**
 - Simple OCR app. It transcribes the text in the image to .txt file or converts codes on a book to .cpp file. You can also directly access the URLs in the images.
@@ -56,6 +56,7 @@ April 2016 - March 2020
 
 **OSS Development**
 - I've participated in some OSS projects, such as TensorFlow Graphics or Kaolin, which are 3D Deep Learning Library for TensorFlow or PyTorch.
+- I fixed some bugs about 3D dataset dataloader on [this pull request](https://github.com/NVIDIAGameWorks/kaolin/pull/199) to Kaolin, and [proposed](https://github.com/tensorflow/graphics/issues/213) a 3D Mesh class with some useful methods to TensorFlow Graphics and now I'm trying to implement it
 
 ## Experience
 **Microsoft Japan**<br>
@@ -73,7 +74,7 @@ April 2018 - March 2019
 - PyTorch, TensorFlow, ARKit, Unity
 
 **Software/Environment**
-- Vim, Git, Linux, macOS
+- Vim, Git, Ubuntu, macOS
 
 
 
